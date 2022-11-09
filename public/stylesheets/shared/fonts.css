@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('/public/fonts/RobotoSlab-Regular.woff') format('woff2'),
+        url('/public/fonts/GothamRounded-Bold.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
